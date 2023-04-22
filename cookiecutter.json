@@ -1,0 +1,11 @@
+{
+    "full_name": "J Mikael",
+    "email": "contact@primeflux.ai",
+    "repo_name": "FlutterFirebaseCookiecutter",
+    "project_short_description": "Quick and easy way to start a new Flutter project with Firebase",
+    "release_date": "2023-01-10",
+    "year": "2023",
+    "version": "0.0.1",
+    "project_name": "test_app",
+    "project_description": "description test app"
+}
